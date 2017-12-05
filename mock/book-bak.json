@@ -1,0 +1,254 @@
+[
+  {
+    "bookCover": "https://img10.360buyimg.com/n1/s200x200_jfs/t2851/314/3804921704/166163/1ad2b626/57997c24Nf9850de8.jpg",
+    "bookName": "CSS权威指南（第3版）",
+    "bookInfo": "HTML、CSS和Web标准领域、国际上公认的专家亲笔撰写！累计印刷已超9次，好评过万！全面深度解读CSS的指南！",
+    "bookPrice": 47.1,
+    "bookId": 1
+  },
+  {
+    "bookCover": "https://img12.360buyimg.com/n1/s200x200_jfs/t5713/237/2034261320/248346/e364dcaa/592bf164N7a4187c3.jpg",
+    "bookName": "JavaScript高级程序设计（第3版）",
+    "bookInfo": "作为JavaScript技术经典名著，《JavaScript高级程序设计（第3版）》承继了之前版本全面深入、贴近实战的特点，在详细讲解了JavaScript语言的核心之后，条分缕析地为读者展示了现有规范及实现为开发Web应用提供的各种支持和特性。",
+    "bookPrice": 78.2,
+    "bookId": 2
+  },
+  {
+    "bookCover": "https://img13.360buyimg.com/n1/s200x200_g13/M02/04/0E/rBEhVFHbZw0IAAAAAALFxgN_LSsAAA3fgLESAwAAsXe559.jpg",
+    "bookName": "JavaScript语言精粹（修订版）",
+    "bookInfo": "《JavaScript语言精粹（修订版）》是一本介绍JavaScript 语言本质的专业书籍，值得任何正在或准备从事JavaScript 开发的人阅读，并且需要反复阅读。学习、理解、实践大师的思想，我们才可能站在巨人的肩上，才有机会超过大师，这本书就是开始。",
+    "bookPrice": 29.4,
+    "bookId": 3
+  },
+  {
+    "bookCover": "https://img12.360buyimg.com/n1/s200x200_jfs/t223/243/1639658472/413040/2c5c7756/53fd2e61Nd737999a.jpg",
+    "bookName": "图灵程序设计丛书：数据结构与算法JavaScript描述",
+    "bookInfo": "《图灵程序设计丛书：数据结构与算法JavaScript描述》适合JavaScript程序员以及对JavaScript语言感兴趣的学习者，特别是在学校中没有系统学习过计算机科学相关课程的“跨界”程序员。",
+    "bookPrice": 38.7,
+    "bookId": 4
+  },
+  {
+    "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t6109/168/755288832/337238/a9c402b3/592bf16bN060edd40.jpg",
+    "bookName": "你不知道的JavaScript（上卷）",
+    "bookInfo": "很多人对JavaScript这门语言的印象都是简单易学，很容易上手。虽然JavaScript语言本身有很多复杂的概念，但语言的使用者不必深入理解这些概念就可以编写出功能全面的应用。殊不知，这些复杂精妙的概念才是语言的精髓，即使是经验丰富的JavaScript开发人员，如果没有认真学习的话也法真正理解它们。在《图灵程序设计丛书：你不知道的JavaScript（上卷）》中，我们要直面当前JavaScript开发者“不求甚解”的大趋势，深入理解语言内部的机制。",
+    "bookPrice": 38.7,
+    "bookId": 5
+  },
+  {
+    "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3100/265/1905043904/414060/715d90c3/57d67736N65f55e5c.jpg",
+    "bookName": "你不知道的JavaScript （中卷）",
+    "bookInfo": "JavaScript这门语言简单易用，很容易上手，但其语言机制复杂微妙，即使是经验丰富的JavaScript开发人员，如果没有认真学习的话也无法真正理解。本套书直面当前JavaScript开发人员不求甚解的大趋势，深入理解语言内部的机制，全面介绍了JavaScript中常被人误解和忽视的重要知识点。本书是其中卷，主要介绍了类型、语法、异步和性能。",
+    "bookPrice": 62.3,
+    "bookId": 6
+  },
+  {
+    "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t2047/63/2033152973/398005/5ea9044e/56ea5e6aN38c0f2b8.jpg",
+    "bookName": "JavaScript权威指南（第6版）",
+    "bookInfo": "本书主要讲述的内容涵盖JavaScript语言本身，以及Web浏览器所实现的JavaScript API。本书第6版涵盖了HTML5和ECMAScript 5，很多章节完全重写，新增的章节包括jQuery、服务器端JavaScript、图形编程以及 JavaScript式的面向对象。本书不仅适合初学者系统学习，也适合有经验的 JavaScript 开发者随手翻阅。",
+    "bookPrice": 111.2,
+    "bookId": 7
+  },
+  {
+    "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t5914/15/800105189/215959/973eea1f/592bf164N56d3e3db.jpg",
+    "bookName": "JavaScript DOM编程艺术（第2版）",
+    "bookInfo": "《JavaScript DOM编程艺术（第2版）》在简洁明快地讲述JavaScript和DOM的基本知识之后，通过几个实例演示了专业水准的网页开发技术，透彻阐述了平稳退化等一批至关重要的JavaScript编程原则和实践，并全面探讨了HTML5以及jQuery等JavaScript库。读者将看到JavaScript、HTML5和CSS如何协作来创建易用的、与标准兼容的Web设计，掌握使用JavaScript和DOM通过客户端动态效果和用户控制的动画来加强Web页面的必备技术；同时，还将对如何利用库提高开发效率有全面深入的理解。",
+    "bookPrice": 36.8,
+    "bookId": 8
+  },
+  {
+    "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+    "bookName": "Vue.js权威指南",
+    "bookInfo": "Vue.js 是一个用来开发Web 界面的前端库。《Vue.js指南》致力于普及国内Vue.js 技术体系，让更多喜欢前端的人员了解和学习Vue.js。如果你对Vue.js 基础知识感兴趣，如果你对源码解析感兴趣，如果你对Vue.js 2.0感兴趣，如果你对主流打包工具感兴趣，如果你对如何实践感兴趣，《Vue.js指南》都是一本不容错过的以示例代码为引导、知识涵盖全面的优秀选择。《Vue.js指南》一共30 章，由浅入深地讲解了Vue.js 基本语法及源码解析。主要内容包括数据绑定、指令、表单控件绑定、过滤器、组件、表单验证、服务通信、路由和视图、vue-cli、测试开发和调试、源码解析及主流打包构建工具等。该书内容全面，讲解细致，示例丰富，适用于各层次的开发者。",
+    "bookPrice": 78.2,
+    "bookId": 9
+  },
+  {
+    "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t4540/29/2949953861/229268/af148d19/58f4ec87N10cf0e3a.jpg",
+    "bookName": "Vue2实践揭秘",
+    "bookInfo": "本书以Vue2的实践应用为根基，从实际示例入手，详细讲解Vue2的基础理论应用及高级组件开发，通过简明易懂的实例代码，生动地让读者快速、全方位地掌握Vue2的各种入门技巧以及一些在实际项目中的宝贵经验。本书除了全面、细致地讲述Vue2的生态结构、实际编程技巧和一些从实践中得到的经验，还重点介绍如何以组件化编程思想为指导，以前端工程化方法为实现手段来实践Vue2，通过组件的单元测试和E2E测试来保证工程质量。",
+    "bookPrice": 62.3,
+    "bookId": 10
+  },
+  {
+    "bookCover": "https://img12.360buyimg.com/n1/s200x200_jfs/t3199/262/7067558943/58497/e77f3d90/58af0e1bNd71632d2.jpg",
+    "bookName": "Vue.js 前端开发 快速入门与专业应用",
+    "bookInfo": "《Vue.js 前端开发 快速入门与专业应用》分为10章：简介，基础特性，指令，过滤器，过渡，组件，状态管理，常用插件，工程实例，Weex打包。从简单的单个实例和基础语法，到工程实例，将系统的讲述Vue.js在项目中的适用场景和具体操作。 书的特点在于案例详实，使读者体会到框架的优点和便捷之处，提升开发效率，能将Vue.js运用到实际项目中，避免纸上谈兵的尴尬。",
+    "bookPrice": 35.5,
+    "bookId": 11
+  },
+  {
+    "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t9508/97/2285719018/62961/99c5b1b7/59f299b4Nc9e78adb.jpg",
+    "bookName": "Vue.js实战",
+    "bookInfo": "《 Vue.js实战》》以Vue.js 2为基础，以项目实战的方式来引导读者渐进式学习Vue.js。《Vue.js实战》分为基础篇、进阶篇和实战篇三部分。基础篇主要是对 Vue.js 核心功能的介绍；进阶篇主要讲解前端工程化Vue.js的组件化、插件的使用；实战篇着重开发了两个完整的示例，所涉及的内容涵盖Vue.js绝大部分API。通过阅读《 Vue.js实战》，读者能够掌握Vue.js框架主要API的使用方法、自定义指令、组件开发、单文件组件、Render函数、使用webpack开发可复用的单页面富应用等。《 Vue.js实战》示例丰富、侧重实战，适用于刚接触或即将接触Vue.js的开发者，也适用于对Vue.js有过开发经验，但需要进一步提升的开发者",
+    "bookPrice": 71.6,
+    "bookId": 12
+  },
+  {
+    "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg",
+    "bookName": "React全栈：Redux+Flux+webpack+Babel整合开发",
+    "bookInfo": "本书从现代前端开发的标准、趋势和常用工具入手，由此引出了优秀的构建工具webpack 和JavaScript库React，之后用一系列的实例来阐述两者的特色、概念和基本使用方法。随着应用复杂度的增加，进而介绍了Flux 和Redux 两种架构思想，并且使用Redux 对现有程序进行改造，最后介绍了在开发过程中出现的反模式和性能优化方法。",
+    "bookPrice": 54.5,
+    "bookId": 13
+  },
+  {
+    "bookCover": "https://img10.360buyimg.com/n1/s200x200_jfs/t3064/316/9231779272/336570/ce323f93/58d0d62bNd25db840.jpg",
+    "bookName": "React快速上手开发",
+    "bookInfo": "本书是React入门书。前3章介绍如何从空白的HTML页面开始构建应用。第4章介绍JSX语法。从第5章开始，你会学习到在实际开发中可能用到的一些附加工具。介绍的例子包括JavaScript打包工具、单元测试、语法检查、类型、在应用中组织数据流以及不可变数据。",
+    "bookPrice": 38.6,
+    "bookId": 14
+  },
+  {
+    "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t5107/58/1653926146/128683/79be7ee8/5912e2fcNf9a839fc.jpg",
+    "bookName": "深入浅出React和Redux",
+    "bookInfo": "本书由浅入深地介绍如何用React和Redux构建现代化的、高效的前端项目，产出高质量的前端代码。共有12章。第1章介绍和传统网页开发相比React应用开发的独特方式。第2章通过实际开发一个ControlPanel组件介绍开发高质量React组件的原则，详细介绍React组件的生命周期和数据管理方式。第3章通过Flux介绍了单向数据流的框架模式，由此引出比Flux更优秀的Redux框架，比较了不同框架的优劣。第4章开发了一个Todo应用，介绍将React和Redux结合的方法。第5章通过对Todo应用的性能优化，介绍提高React组件渲染性的方法，以及提高从Store获取数据性能的方法。第6章介绍高阶组件和“以函数为子组件”的模式。第7章介绍如何在React和Redux的环境中实现和服务器通信。第8章介绍针对React和Redux的单元测试技巧。第9章介绍创建中间件和Store Enhancer的技巧。第10章介绍在React中通过ReactTransitionGroup和React-Motion库实现动画的技巧。第11章介绍如何创建多页面路由，以及为了提高网页装载性能的代码分片技巧。第12章介绍同构的概念和方法，介绍如何将React组件在服务器端和浏览器端进行渲染。",
+    "bookPrice": 54.5,
+    "bookId": 15
+  },
+  {
+    "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t6094/107/710811867/382815/4d54717/592bf165N755a88f0.jpg",
+    "bookName": "深入浅出Node.js",
+    "bookInfo": "《深入浅出Node.js》从不同的视角介绍了 Node 内在的特点和结构。由首章Node 介绍为索引，涉及Node 的各个方面，主要内容包含模块机制的揭示、异步I/O 实现原理的展现、异步编程的探讨、内存控制的介绍、二进制数据Buffer 的细节、Node 中的网络编程基础、Node 中的Web 开发、进程间的消息传递、Node 测试以及通过Node 构建产品需要的注意事项。附录介绍了Node 的安装、调试、编码规范和NPM 仓库等事宜。",
+    "bookPrice": 54.5,
+    "bookId": 16
+  },
+  {
+    "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t682/77/1338457793/353844/a4dfde4f/54cedff3Nd2aae298.jpg",
+    "bookName": "Node与Express开发",
+    "bookInfo": "《图灵程序设计丛书：Node与Express开发》系统讲解了使用Express开发动态Web应用的流程和步骤。作者不仅讲授了开发公共站点及REST API的基础知识，同时还讲解了构建单页、多页及混合Web应用的规划方式及实践。具体而言，第1~5章介绍Node 和Express，搭建一个示例网站的骨架，讨论测试和QA。第6~12章介绍Node中更重要的结构，讲解模板，介绍cookies、会话和表单处理 器，探讨中间件以及从服务器发送电子邮件。第13~15章讨论持久化、URL路由、API的编写、流行的MVC范式。第18~22章讨论安全、社交媒体集 成以及网站的调试、启用和维护。",
+    "bookPrice": 54.5,
+    "bookId": 17
+  },
+  {
+    "bookCover": "https://img14.360buyimg.com/n1/s200x200_g15/M07/17/03/rBEhWVKMZ1AIAAAAAAVG8mJwrncAAFuKwEuVBwABUcK039.jpg",
+    "bookName": "了不起的Node.js 将JavaScript进行到底",
+    "bookInfo": "《了不起的Node.js 将JavaScript进行到底》主要由对五大部分的介绍组成：Node核心设计理念、Node核心模块API、Web开发、数据库以及测试。从前到后、由表及里地对使用 Node进行Web开发的每一个环节都进行了深入的讲解，并且较大的特点就是通过大量的实际案例、代码展示来剖析技术点，讲解优秀实践。",
+    "bookPrice": 62.4,
+    "bookId": 18
+  },
+  {
+    "bookCover": "https://img10.360buyimg.com/n1/s200x200_jfs/t2851/314/3804921704/166163/1ad2b626/57997c24Nf9850de8.jpg",
+    "bookName": "CSS权威指南（第3版）",
+    "bookInfo": "HTML、CSS和Web标准领域、国际上公认的专家亲笔撰写！累计印刷已超9次，好评过万！全面深度解读CSS的指南！",
+    "bookPrice": 47.1,
+    "bookId": 19
+  },
+  {
+    "bookCover": "https://img12.360buyimg.com/n1/s200x200_jfs/t5713/237/2034261320/248346/e364dcaa/592bf164N7a4187c3.jpg",
+    "bookName": "JavaScript高级程序设计（第3版）",
+    "bookInfo": "作为JavaScript技术经典名著，《JavaScript高级程序设计（第3版）》承继了之前版本全面深入、贴近实战的特点，在详细讲解了JavaScript语言的核心之后，条分缕析地为读者展示了现有规范及实现为开发Web应用提供的各种支持和特性。",
+    "bookPrice": 78.2,
+    "bookId": 20
+  },
+  {
+    "bookCover": "https://img13.360buyimg.com/n1/s200x200_g13/M02/04/0E/rBEhVFHbZw0IAAAAAALFxgN_LSsAAA3fgLESAwAAsXe559.jpg",
+    "bookName": "JavaScript语言精粹（修订版）",
+    "bookInfo": "《JavaScript语言精粹（修订版）》是一本介绍JavaScript 语言本质的专业书籍，值得任何正在或准备从事JavaScript 开发的人阅读，并且需要反复阅读。学习、理解、实践大师的思想，我们才可能站在巨人的肩上，才有机会超过大师，这本书就是开始。",
+    "bookPrice": 29.4,
+    "bookId": 21
+  },
+  {
+    "bookCover": "https://img12.360buyimg.com/n1/s200x200_jfs/t223/243/1639658472/413040/2c5c7756/53fd2e61Nd737999a.jpg",
+    "bookName": "图灵程序设计丛书：数据结构与算法JavaScript描述",
+    "bookInfo": "《图灵程序设计丛书：数据结构与算法JavaScript描述》适合JavaScript程序员以及对JavaScript语言感兴趣的学习者，特别是在学校中没有系统学习过计算机科学相关课程的“跨界”程序员。",
+    "bookPrice": 38.7,
+    "bookId": 22
+  },
+  {
+    "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t6109/168/755288832/337238/a9c402b3/592bf16bN060edd40.jpg",
+    "bookName": "你不知道的JavaScript（上卷）",
+    "bookInfo": "很多人对JavaScript这门语言的印象都是简单易学，很容易上手。虽然JavaScript语言本身有很多复杂的概念，但语言的使用者不必深入理解这些概念就可以编写出功能全面的应用。殊不知，这些复杂精妙的概念才是语言的精髓，即使是经验丰富的JavaScript开发人员，如果没有认真学习的话也法真正理解它们。在《图灵程序设计丛书：你不知道的JavaScript（上卷）》中，我们要直面当前JavaScript开发者“不求甚解”的大趋势，深入理解语言内部的机制。",
+    "bookPrice": 38.7,
+    "bookId": 23
+  },
+  {
+    "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3100/265/1905043904/414060/715d90c3/57d67736N65f55e5c.jpg",
+    "bookName": "你不知道的JavaScript （中卷）",
+    "bookInfo": "JavaScript这门语言简单易用，很容易上手，但其语言机制复杂微妙，即使是经验丰富的JavaScript开发人员，如果没有认真学习的话也无法真正理解。本套书直面当前JavaScript开发人员不求甚解的大趋势，深入理解语言内部的机制，全面介绍了JavaScript中常被人误解和忽视的重要知识点。本书是其中卷，主要介绍了类型、语法、异步和性能。",
+    "bookPrice": 62.3,
+    "bookId": 24
+  },
+  {
+    "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t2047/63/2033152973/398005/5ea9044e/56ea5e6aN38c0f2b8.jpg",
+    "bookName": "JavaScript权威指南（第6版）",
+    "bookInfo": "本书主要讲述的内容涵盖JavaScript语言本身，以及Web浏览器所实现的JavaScript API。本书第6版涵盖了HTML5和ECMAScript 5，很多章节完全重写，新增的章节包括jQuery、服务器端JavaScript、图形编程以及 JavaScript式的面向对象。本书不仅适合初学者系统学习，也适合有经验的 JavaScript 开发者随手翻阅。",
+    "bookPrice": 111.2,
+    "bookId": 25
+  },
+  {
+    "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t5914/15/800105189/215959/973eea1f/592bf164N56d3e3db.jpg",
+    "bookName": "JavaScript DOM编程艺术（第2版）",
+    "bookInfo": "《JavaScript DOM编程艺术（第2版）》在简洁明快地讲述JavaScript和DOM的基本知识之后，通过几个实例演示了专业水准的网页开发技术，透彻阐述了平稳退化等一批至关重要的JavaScript编程原则和实践，并全面探讨了HTML5以及jQuery等JavaScript库。读者将看到JavaScript、HTML5和CSS如何协作来创建易用的、与标准兼容的Web设计，掌握使用JavaScript和DOM通过客户端动态效果和用户控制的动画来加强Web页面的必备技术；同时，还将对如何利用库提高开发效率有全面深入的理解。",
+    "bookPrice": 36.8,
+    "bookId": 26
+  },
+  {
+    "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+    "bookName": "Vue.js权威指南",
+    "bookInfo": "Vue.js 是一个用来开发Web 界面的前端库。《Vue.js指南》致力于普及国内Vue.js 技术体系，让更多喜欢前端的人员了解和学习Vue.js。如果你对Vue.js 基础知识感兴趣，如果你对源码解析感兴趣，如果你对Vue.js 2.0感兴趣，如果你对主流打包工具感兴趣，如果你对如何实践感兴趣，《Vue.js指南》都是一本不容错过的以示例代码为引导、知识涵盖全面的优秀选择。《Vue.js指南》一共30 章，由浅入深地讲解了Vue.js 基本语法及源码解析。主要内容包括数据绑定、指令、表单控件绑定、过滤器、组件、表单验证、服务通信、路由和视图、vue-cli、测试开发和调试、源码解析及主流打包构建工具等。该书内容全面，讲解细致，示例丰富，适用于各层次的开发者。",
+    "bookPrice": 78.2,
+    "bookId": 27
+  },
+  {
+    "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t4540/29/2949953861/229268/af148d19/58f4ec87N10cf0e3a.jpg",
+    "bookName": "Vue2实践揭秘",
+    "bookInfo": "本书以Vue2的实践应用为根基，从实际示例入手，详细讲解Vue2的基础理论应用及高级组件开发，通过简明易懂的实例代码，生动地让读者快速、全方位地掌握Vue2的各种入门技巧以及一些在实际项目中的宝贵经验。本书除了全面、细致地讲述Vue2的生态结构、实际编程技巧和一些从实践中得到的经验，还重点介绍如何以组件化编程思想为指导，以前端工程化方法为实现手段来实践Vue2，通过组件的单元测试和E2E测试来保证工程质量。",
+    "bookPrice": 62.3,
+    "bookId": 28
+  },
+  {
+    "bookCover": "https://img12.360buyimg.com/n1/s200x200_jfs/t3199/262/7067558943/58497/e77f3d90/58af0e1bNd71632d2.jpg",
+    "bookName": "Vue.js 前端开发 快速入门与专业应用",
+    "bookInfo": "《Vue.js 前端开发 快速入门与专业应用》分为10章：简介，基础特性，指令，过滤器，过渡，组件，状态管理，常用插件，工程实例，Weex打包。从简单的单个实例和基础语法，到工程实例，将系统的讲述Vue.js在项目中的适用场景和具体操作。 书的特点在于案例详实，使读者体会到框架的优点和便捷之处，提升开发效率，能将Vue.js运用到实际项目中，避免纸上谈兵的尴尬。",
+    "bookPrice": 35.5,
+    "bookId": 29
+  },
+  {
+    "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t9508/97/2285719018/62961/99c5b1b7/59f299b4Nc9e78adb.jpg",
+    "bookName": "Vue.js实战",
+    "bookInfo": "《 Vue.js实战》》以Vue.js 2为基础，以项目实战的方式来引导读者渐进式学习Vue.js。《Vue.js实战》分为基础篇、进阶篇和实战篇三部分。基础篇主要是对 Vue.js 核心功能的介绍；进阶篇主要讲解前端工程化Vue.js的组件化、插件的使用；实战篇着重开发了两个完整的示例，所涉及的内容涵盖Vue.js绝大部分API。通过阅读《 Vue.js实战》，读者能够掌握Vue.js框架主要API的使用方法、自定义指令、组件开发、单文件组件、Render函数、使用webpack开发可复用的单页面富应用等。《 Vue.js实战》示例丰富、侧重实战，适用于刚接触或即将接触Vue.js的开发者，也适用于对Vue.js有过开发经验，但需要进一步提升的开发者",
+    "bookPrice": 71.6,
+    "bookId": 30
+  },
+  {
+    "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t3421/92/270677877/214026/8f366557/5804fe11Nde9d5f1a.jpg",
+    "bookName": "React全栈：Redux+Flux+webpack+Babel整合开发",
+    "bookInfo": "本书从现代前端开发的标准、趋势和常用工具入手，由此引出了优秀的构建工具webpack 和JavaScript库React，之后用一系列的实例来阐述两者的特色、概念和基本使用方法。随着应用复杂度的增加，进而介绍了Flux 和Redux 两种架构思想，并且使用Redux 对现有程序进行改造，最后介绍了在开发过程中出现的反模式和性能优化方法。",
+    "bookPrice": 54.5,
+    "bookId": 31
+  },
+  {
+    "bookCover": "https://img10.360buyimg.com/n1/s200x200_jfs/t3064/316/9231779272/336570/ce323f93/58d0d62bNd25db840.jpg",
+    "bookName": "React快速上手开发",
+    "bookInfo": "本书是React入门书。前3章介绍如何从空白的HTML页面开始构建应用。第4章介绍JSX语法。从第5章开始，你会学习到在实际开发中可能用到的一些附加工具。介绍的例子包括JavaScript打包工具、单元测试、语法检查、类型、在应用中组织数据流以及不可变数据。",
+    "bookPrice": 38.6,
+    "bookId": 32
+  },
+  {
+    "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t5107/58/1653926146/128683/79be7ee8/5912e2fcNf9a839fc.jpg",
+    "bookName": "深入浅出React和Redux",
+    "bookInfo": "本书由浅入深地介绍如何用React和Redux构建现代化的、高效的前端项目，产出高质量的前端代码。共有12章。第1章介绍和传统网页开发相比React应用开发的独特方式。第2章通过实际开发一个ControlPanel组件介绍开发高质量React组件的原则，详细介绍React组件的生命周期和数据管理方式。第3章通过Flux介绍了单向数据流的框架模式，由此引出比Flux更优秀的Redux框架，比较了不同框架的优劣。第4章开发了一个Todo应用，介绍将React和Redux结合的方法。第5章通过对Todo应用的性能优化，介绍提高React组件渲染性的方法，以及提高从Store获取数据性能的方法。第6章介绍高阶组件和“以函数为子组件”的模式。第7章介绍如何在React和Redux的环境中实现和服务器通信。第8章介绍针对React和Redux的单元测试技巧。第9章介绍创建中间件和Store Enhancer的技巧。第10章介绍在React中通过ReactTransitionGroup和React-Motion库实现动画的技巧。第11章介绍如何创建多页面路由，以及为了提高网页装载性能的代码分片技巧。第12章介绍同构的概念和方法，介绍如何将React组件在服务器端和浏览器端进行渲染。",
+    "bookPrice": 54.5,
+    "bookId": 33
+  },
+  {
+    "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t6094/107/710811867/382815/4d54717/592bf165N755a88f0.jpg",
+    "bookName": "深入浅出Node.js",
+    "bookInfo": "《深入浅出Node.js》从不同的视角介绍了 Node 内在的特点和结构。由首章Node 介绍为索引，涉及Node 的各个方面，主要内容包含模块机制的揭示、异步I/O 实现原理的展现、异步编程的探讨、内存控制的介绍、二进制数据Buffer 的细节、Node 中的网络编程基础、Node 中的Web 开发、进程间的消息传递、Node 测试以及通过Node 构建产品需要的注意事项。附录介绍了Node 的安装、调试、编码规范和NPM 仓库等事宜。",
+    "bookPrice": 54.5,
+    "bookId": 34
+  },
+  {
+    "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t682/77/1338457793/353844/a4dfde4f/54cedff3Nd2aae298.jpg",
+    "bookName": "Node与Express开发",
+    "bookInfo": "《图灵程序设计丛书：Node与Express开发》系统讲解了使用Express开发动态Web应用的流程和步骤。作者不仅讲授了开发公共站点及REST API的基础知识，同时还讲解了构建单页、多页及混合Web应用的规划方式及实践。具体而言，第1~5章介绍Node 和Express，搭建一个示例网站的骨架，讨论测试和QA。第6~12章介绍Node中更重要的结构，讲解模板，介绍cookies、会话和表单处理 器，探讨中间件以及从服务器发送电子邮件。第13~15章讨论持久化、URL路由、API的编写、流行的MVC范式。第18~22章讨论安全、社交媒体集 成以及网站的调试、启用和维护。",
+    "bookPrice": 54.5,
+    "bookId": 35
+  },
+  {
+    "bookCover": "https://img14.360buyimg.com/n1/s200x200_g15/M07/17/03/rBEhWVKMZ1AIAAAAAAVG8mJwrncAAFuKwEuVBwABUcK039.jpg",
+    "bookName": "了不起的Node.js 将JavaScript进行到底",
+    "bookInfo": "《了不起的Node.js 将JavaScript进行到底》主要由对五大部分的介绍组成：Node核心设计理念、Node核心模块API、Web开发、数据库以及测试。从前到后、由表及里地对使用 Node进行Web开发的每一个环节都进行了深入的讲解，并且较大的特点就是通过大量的实际案例、代码展示来剖析技术点，讲解优秀实践。",
+    "bookPrice": 62.4,
+    "bookId": 36
+  }
+]

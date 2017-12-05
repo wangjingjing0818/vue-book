@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  +function () {
+    var ary = [
+      {
+        remark: '备注',
+        text: '文本',
+        error_list: {a:1,b:2,c:3}
+      },
+      {
+        remark: '备注1',
+        text: '文本1',
+        error_list: {a:1,b:2,c:3}
+      },
+      {
+        remark: '备注2',
+        text: '文本2',
+        error_list: {a:1,b:2,c:3}
+      }
+    ]
+
+    var ary2 =[]
+
+      for (var i = 0;i< ary.length;i++) {
+          if (ary[i].text == '文本' && ary[i].remark == '备注') {
+          for(var val in ary[i].error_list) {
+              if (val == 'a') {
+                ary2.push(ary[i])
+              }
+          }
+            console.log(34343)
+              ary2.push(ary[i])
+          }
+      }
+      console.log(ary2)
+
+    }()
+
+</script>
+
+</body>
+</html>
